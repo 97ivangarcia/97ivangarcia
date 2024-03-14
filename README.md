@@ -1,10 +1,10 @@
 **¡Bienvenido a mi perfil de GitHub!** 👋
 
-**Sobre mí**
+**Sobre mí** 🚀
 ¡Hola! Soy Iván, un apasionado desarrollador con experiencia en HTML, CSS, JavaScript y Java. Me encanta crear aplicaciones web y trabajar en proyectos desafiantes que me permitan seguir aprendiendo y creciendo como programador.
 
 
-**Habilidades**
+**Habilidades** 💻
 
 
 -**HTML:** Soy hábil en la creación de estructuras web semánticas y accesibles utilizando HTML5.
@@ -16,6 +16,6 @@
 -**Java:** Poseo conocimientos sólidos en programación orientada a objetos con Java, incluyendo el desarrollo de aplicaciones backend.
 
 
-**Contacto**
+**Contacto** 📫 
 
 Si estás interesado en colaborar en algún proyecto o simplemente quieres charlar sobre desarrollo web, no dudes en contactarme a través de mi correo electrónico: **97ivangarcia@gmail.com** 📧
