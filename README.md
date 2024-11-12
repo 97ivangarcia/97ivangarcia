@@ -13,7 +13,7 @@
 
 - **JavaScript:** Me siento cómodo trabajando con JavaScript para crear interactividad en sitios web y desarrollar aplicaciones web dinámicas.
 
-- **Java:** Poseo conocimientos sólidos en programación orientada a objetos con Java.
+- **Java y Python:** Poseo conocimientos sólidos en programación orientada a objetos con Java y Python.
 
 
 **Contacto** 📫 
